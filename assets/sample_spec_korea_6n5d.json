@@ -1,0 +1,1975 @@
+{
+  "schedule_title": "SCHEDULE — BUSAN → SEOUL | 6 DAYS / 5 NIGHTS | 24–29 OCT 2026",
+  "days": [
+    {
+      "banner": "DAY 1 — T7 24/10 (THỨ BẢY) — ĐẾN BUSAN · NAMPO & GAMCHEON",
+      "highlights": "★ HIGHLIGHTS: ⑩ Gamcheon Culture Village · ⑪ Gukje Market & BIFF Square (ssiat hotteok) · ⑫ Bupyeong Kkangtong Night Market  (+ Jagalchi Fish Market)",
+      "rows": [
+        {
+          "time": "21h45–0h45",
+          "duration": "3h",
+          "type": "TRANSPORT",
+          "activity": "Tập trung Sân Bay ĐN (Ga Quốc Tế quầy 48 - 53)",
+          "area": "Airport",
+          "notes": "Check-in có mặt trước giờ bay 3 tiếng (tối T6 23/10, 21h45)",
+          "critical": true
+        },
+        {
+          "time": "0h45–7h20",
+          "duration": "4h35",
+          "type": "TRANSPORT",
+          "activity": "XX101 Airline A: Đà Nẵng (DAD) → Busan Gimhae (PUS)",
+          "area": "Airport",
+          "transport": "Bay đêm 4h35 + lệch múi giờ 2h",
+          "notes": "Flight Code: Airline A XX101 "
+        },
+        {
+          "time": "7h20–8h20",
+          "duration": "1h",
+          "type": "TRANSPORT",
+          "activity": "Nhập cảnh - Mua thẻ T-money",
+          "area": "PUS",
+          "notes": "T-money mua tại cửa hàng tiện lợi CU/GS25 ở Ga Đến (Nạp 20k won vào thẻ)"
+        },
+        {
+          "time": "8h20–9h20",
+          "duration": "1h",
+          "type": "TRANSPORT",
+          "activity": "Về khách sạn (Gimhae → Beomil)",
+          "area": "Beomil, Dong-gu",
+          "transport": "Busan-Gimhae LRT → Subway L2 Seomyeon → L1 Beomil",
+          "notes": "Hotel A (Busan) — [hotel address]"
+        },
+        {
+          "time": "9h20–9h45",
+          "duration": "25p",
+          "type": "TRANSPORT",
+          "activity": "Gửi vali tại khách sạn và di chuyển đến Nampo",
+          "area": "Beomil → Nampo",
+          "transport": "Subway L1 Beomil → Nampo (6 trạm, ~15p, cùng tuyến)",
+          "notes": "Check-in Hotel : ~15h, chỉ gửi vali rồi đi tiếp"
+        },
+        {
+          "time": "9h45–10h30",
+          "duration": "45p",
+          "type": "MEAL",
+          "activity": "BREAKFAST: Seojinseop Dwaeji Gukbap",
+          "area": "Nampo",
+          "transport": "Đi bộ",
+          "notes": "Seojinseop Dwaeji Gukbap - 30-1 Gwangbok-ro 39beon-gil, Jung-gu (Nampo) - ~800 m / 11 phút đi bộ từ ga Nampo (ước tính) - Must Eat: canh xương heo",
+          "backup1": "Miryangjip - 35 Jungu-ro 47beon-gil, Bupyeong, Jung-gu - ~350 m / 5 phút đi bộ - Must Eat: Ddaro gukbap canh heo tách cơm, cơm thịt luộc",
+          "backup2": "Yangsanjip - 30 Jungu-ro 47beon-gil, Jung-gu - ~300 m / 4 phút đi bộ - Must Eat: Cơm thịt luộc, canh heo"
+        },
+        {
+          "time": "10h30–11h00",
+          "duration": "30p",
+          "type": "TRANSPORT",
+          "activity": "Nampo → Gamcheon",
+          "area": "Saha-gu",
+          "transport": "Subway L1 Toseong → bus 2 / 2-2"
+        },
+        {
+          "time": "11h00–13h00",
+          "duration": "2h",
+          "type": "SIGHTSEEING",
+          "activity": "Gamcheon Culture Village",
+          "area": "Saha-gu",
+          "transport": "Đi bộ",
+          "notes": "Làng bậc thang nhiều màu"
+        },
+        {
+          "time": "13h–13h30",
+          "duration": "30p",
+          "type": "TRANSPORT",
+          "activity": "Gamcheon → Jagalchi",
+          "area": "Nampo",
+          "transport": "Bus + Subway L1",
+          "notes": "Cùng tuyến L1, không đi ngược đường"
+        },
+        {
+          "time": "13h30–15h",
+          "duration": "1h30",
+          "type": "MEAL",
+          "activity": "LUNCH: Jagalchi Fish Market",
+          "area": "Jagalchi",
+          "transport": "Đi bộ",
+          "notes": "Jagalchi Fish Market - 52 Jagalchihaean-ro, Jung-gu - ~600 m / 8 phút đi bộ từ ga Jagalchi - Must Eat: hải sản tươi chọn ở tầng 1, chế biến tại tầng 2 (sashimi, hải sản nướng)\nCHỐT GIÁ TRƯỚC khi chế biến.",
+          "backup1": "Gimhae Sikdang - 51-2 Jagalchi-ro, Jung-gu - ~100 m / 2 phút đi bộ - Must Eat: Cá chày hấp cay, canh cá chày",
+          "backup2": "Masil Gage - 29-1 Jagalchihaean-ro, Jung-gu - ~170 m / 3 phút đi bộ - Must Eat: Set cá nướng"
+        },
+        {
+          "time": "15h–17h",
+          "duration": "2h",
+          "type": "REST",
+          "activity": "Về khách sạn check in + rest",
+          "area": "Beomil",
+          "transport": "Subway L1 Nampo ↔ Beomil (6 trạm, ~15p/chiều)"
+        },
+        {
+          "time": "17h–18h30",
+          "duration": "1h30",
+          "type": "SIGHTSEEING",
+          "activity": "Gukje Market + BIFF Square",
+          "area": "Nampo",
+          "transport": "Đi bộ",
+          "notes": "Món Ssiat hotteok (nên thử)"
+        },
+        {
+          "time": "18h30–20h",
+          "duration": "1h30",
+          "type": "MEAL",
+          "activity": "DINNER: Naengchae jokbal (chân giò lạnh)",
+          "area": "Nampo",
+          "transport": "Đi bộ",
+          "notes": "Bupyeong Jokbal - 19-2 Gwangbok-ro, Jung-gu (ngõ Jokbal, Nampo) - đi bộ từ Gukje Market / BIFF Square, ~5–10 phút (ước tính) - Must Eat: chân giò trộn lạnh",
+          "backup1": "Wonjo Busan Jokbal - 13-1 Gwangbok-ro, Jung-gu (cùng ngõ Jokbal) - ~60 m / 1 phút đi bộ - Must Eat: Chân giò trộn lạnh, chân giò",
+          "backup2": "Hongso Jokbal - 21-2 Gwangbok-ro, Jung-gu - ~15 m / sát vách - Must Eat: Chân giò nửa lạnh nửa cay, mì kiều mạch trộn"
+        },
+        {
+          "time": "20h–21h30",
+          "duration": "1h30",
+          "type": "SIGHTSEEING",
+          "activity": "Bupyeong Kkangtong Night Market",
+          "area": "Nampo",
+          "transport": "Đi bộ",
+          "notes": "Chỉ sôi động sau 19:00. Sau đó về lại Hotel A (Beomil): Subway L1 (~10p)."
+        }
+      ]
+    },
+    {
+      "banner": "DAY 2 — CN 25/10 (CHỦ NHẬT) — BUSAN ĐÔNG: CHÙA BIỂN & HAEUNDAE",
+      "highlights": "★ HIGHLIGHTS: ⑬ Haedong Yonggungsa · ⑭ Blueline Park Beach Train · ⑮ Dalmaji-gil  (+ Haeundae Beach, The Bay 101)",
+      "rows": [
+        {
+          "time": "7h00",
+          "duration": "30p",
+          "type": "MEETING",
+          "activity": "Tập trung xuất phát",
+          "area": "Beomil"
+        },
+        {
+          "time": "7h30–8h",
+          "duration": "30p",
+          "type": "MEAL",
+          "activity": "BREAKFAST: Miryang Gasan Dwaeji Gukbap Beomil",
+          "area": "Beomil",
+          "transport": "Đi bộ",
+          "notes": "Miryang Gasan Dwaeji Gukbap Beomil - 45 Jaseong-ro 133beon-gil, Dong-gu - ~300 m / 4 phút đi bộ từ KS Hotel A - Must Eat: canh heo, cơm thịt luộc",
+          "backup1": "Masan Sikdang - 19 Jayupyeonghwa-ro, Busanjin-gu (Beomcheon-dong) - ~125 m / 2 phút đi bộ (~350 m từ KS) - Must Eat: Canh heo tách cơm, cơm thịt luộc",
+          "backup2": "Gijang Myeolchi Guksu Beomil - 49 Jaseong-ro 133beon-gil, Dong-gu - ~40 m / 1 phút đi bộ - Must Eat: Mì nước cá cơm, canh bánh gạo"
+        },
+        {
+          "time": "8h–9h30",
+          "duration": "1h30",
+          "type": "TRANSPORT",
+          "activity": "Beomil → Haedong Yonggungsa",
+          "area": "Gijang",
+          "transport": "Subway L1 Beomil → Seomyeon, đổi L2 → Haeundae + 2–3 taxi tới chùa",
+          "notes": "Chủ nhật bus 181 rất đông, khó lên đủ 8 người cùng chuyến → đi taxi từ ga Haeundae. Backup: bus 181."
+        },
+        {
+          "time": "9h30–11h00",
+          "duration": "1h30",
+          "type": "SIGHTSEEING",
+          "activity": "Haedong Yonggungsa Temple",
+          "area": "Gijang",
+          "transport": "Đi bộ",
+          "notes": "Chùa sát mép biển. Chủ nhật đông — 1h30 là đủ."
+        },
+        {
+          "time": "11h00–12h00",
+          "duration": "1h",
+          "type": "TRANSPORT",
+          "activity": "Yonggungsa → Haeundae Market",
+          "area": "Haeundae",
+          "transport": "2–3 taxi (gồm thời gian chờ xe) — backup bus 181 + đi bộ"
+        },
+        {
+          "time": "12h00–13h30",
+          "duration": "1h30",
+          "type": "MEAL",
+          "activity": "LUNCH: Haeundae Market",
+          "area": "Haeundae",
+          "transport": "Đi bộ",
+          "notes": "Haeundae Market - Gunam-ro 41beon-gil, Haeundae-gu - ~550 m / 7 phút đi bộ từ ga Haeundae (taxi thả tại chợ) - Must Eat: mì, chả cá, hải sản nướng",
+          "backup1": "Sanggukine - 40-1 Gunam-ro 41beon-gil, Haeundae-gu (trong chợ) - ~100 m / 2 phút đi bộ - Must Eat: Tteokbokki, chả cá + đồ chiên\nSạp nổi tiếng nhất chợ Haeundae",
+          "backup2": "Haeundae Wonjo Halmae Gukbap - 33 Gunam-ro 21beon-gil, Haeundae-gu - ~200 m / 3 phút đi bộ - Must Eat: Canh bò kiểu Gyeongsang, canh tiết"
+        },
+        {
+          "time": "13h30–15h15",
+          "duration": "1h45",
+          "type": "SIGHTSEEING",
+          "activity": "Blueline Park — Beach Train 1 chiều Mipo → Cheongsapo",
+          "area": "Cheongsapo",
+          "transport": "Đi bộ Haeundae Market → ga Mipo",
+          "notes": "Vé Beach Train 1 chiều Mipo → Cheongsapo, tàu 14h30 — có mặt ga Mipo trước 30p. Xuống Cheongsapo dạo Daritdol Skywalk. ",
+          "backup1": "https://www.bluelinepark.com/images/guidemap/GUIDEBOOK_ENG.pdf"
+        },
+        {
+          "time": "15h15–17h00",
+          "duration": "1h45",
+          "type": "SIGHTSEEING",
+          "activity": "Dalmaji-gil",
+          "area": "Haeundae",
+          "transport": "Đi bộ Cheongsapo → Haewoljeong → xuống Mipo / Haeundae (có đoạn dốc — kiểm tra lộ trình trên Naver Map)",
+          "notes": "Đường dạo ven biển trên đồi, kết thúc ngay đầu bãi Haeundae. "
+        },
+        {
+          "time": "17h00–19h00",
+          "duration": "2h",
+          "type": "SIGHTSEEING",
+          "activity": "Haeundae Beach",
+          "area": "Haeundae",
+          "transport": "Đi bộ",
+          "notes": "Ngắm hoàng hôn ~17h45"
+        },
+        {
+          "time": "19h–20h30",
+          "duration": "1h30",
+          "type": "MEAL",
+          "activity": "DINNER: Milmyeon",
+          "area": "Haeundae",
+          "transport": "Đi bộ",
+          "notes": "Gome Milmyeon - 13-1 Gunam-ro, Haeundae-gu - ~370 m / 5 phút đi bộ từ bãi biển Haeundae - Must Eat: mì lúa mì lạnh gốc Busan; có bản nóng cho trời lạnh\nKumsu Bokguk (Backup 1, Michelin Selected)",
+          "backup1": "Kumsu Bokguk Haeundae main - 23 Jungdong 1-ro 43beon-gil, Haeundae-gu - ~650 m / 9 phút đi bộ - Must Eat: Canh cá nóc trong, cá nóc chiên",
+          "backup2": "Haeundae Milmyeon - 21 Jungdong 2-ro 10beon-gil, Haeundae-gu - ~770 m / 10 phút đi bộ - Must Eat: Mì lạnh nước, bánh bao"
+        },
+        {
+          "time": "20h30–22h",
+          "duration": "1h30",
+          "type": "SIGHTSEEING",
+          "activity": "The Bay 101",
+          "area": "Haeundae",
+          "transport": "Đi bộ",
+          "notes": "View đêm Marine City.\n Về Beomil: Subway L2 Haeundae → Seomyeon → L1 Beomil (~40p), về KS ~22h45."
+        }
+      ]
+    },
+    {
+      "banner": "DAY 3 — T2 26/10 (THỨ HAI) — BUSAN SÁNG → KTX LÊN SEOUL → DDP & DONGDAEMUN",
+      "highlights": "★ HIGHLIGHTS: ① Dongdaemun Design Plaza (DDP)  (+ Busan Tower, KTX, Dakhanmari Dongdaemun)",
+      "rows": [
+        {
+          "time": "8h00",
+          "duration": "30p",
+          "type": "MEETING",
+          "activity": "Tập trung + Check-out, gửi vali tại lễ tân",
+          "area": "Beomil"
+        },
+        {
+          "time": "8h00–9h00",
+          "duration": "1h",
+          "type": "MEAL",
+          "activity": "BREAKFAST: cửa hàng tiện lợi / quán gần khách sạn",
+          "area": "Beomil",
+          "transport": "Đi bộ",
+          "notes": "Cửa hàng tiện lợi (CU/GS25) hoặc quán gần KS - quanh Hotel A, Beomil - vài phút đi bộ - Must Eat: kimbap tam giác, mì ly, sữa chuối",
+          "backup1": "Paris Baguette Beomil Jobang - 16-3 Beomil-ro 102beon-gil, Dong-gu - gần KS - Must Eat: Sandwich, bánh ngọt + cà phê",
+          "backup2": "Miryang Gasan Dwaeji Gukbap Beomil - 45 Jaseong-ro 133beon-gil, Dong-gu - ~300 m / 4 phút đi bộ từ KS - Must Eat: Canh heo, bữa sáng nóng, no"
+        },
+        {
+          "time": "9h00–10h50",
+          "duration": "1h50",
+          "type": "SIGHTSEEING",
+          "activity": "Yongdusan Park + Busan Tower",
+          "area": "Nampo",
+          "transport": "Subway L1 Beomil → Nampo (6 trạm, ~15p) + thang cuốn ngoài trời",
+          "notes": "Dạo Yongdusan Park trước, lên đài Busan Tower lúc 10h (giờ mở 10h–22h). Có thang cuốn, không cần leo bộ."
+        },
+        {
+          "time": "10h50–11h40",
+          "duration": "50p",
+          "type": "TRANSPORT",
+          "activity": "Nampo → Beomil lấy vali → taxi ra ga Busan Station",
+          "area": "Busan Station",
+          "transport": "Subway L1 Nampo → Beomil (6 trạm, ~15p) + 2–3 taxi KS → ga (~10p)",
+          "notes": "Ga Busan Station — 206 Jungang-daero, Dong-gu."
+        },
+        {
+          "time": "11h40–12h20",
+          "duration": "40p",
+          "type": "MEAL",
+          "activity": "LUNCH: Ăn tại Ga Busan Station",
+          "area": "Busan Station",
+          "transport": "Đi bộ",
+          "notes": "Bong Bibimga trong ga để kịp tàu 12h34.",
+          "backup1": "Sinbalwon - 62 Daeyeong-ro 243beon-gil, Dong-gu (Chinatown, đối diện ga) - ~530 m / 7 phút đi bộ - Must Eat: Bánh bao chiên, bánh bao thịt hấp",
+          "critical": true
+        },
+        {
+          "time": "12h34–15h00",
+          "duration": "2h26",
+          "type": "TRANSPORT",
+          "activity": "Tàu KTX-Cheongryong (Busan → Seoul)",
+          "area": "Seoul",
+          "transport": "KTX-Cheongryong ~2h26",
+          "notes": "Lên sân ga trước 12h20, tàu chạy 12h34. Train Code: KTX-CheongRyong036",
+          "critical": true
+        },
+        {
+          "time": "15h00–17h00",
+          "duration": "2h",
+          "type": "REST",
+          "activity": "Seoul Station → Hoegi, check-in Hotel B",
+          "area": "Dongdaemun-gu",
+          "transport": "Subway L1 trực tiếp  Lên tàu có đích Gwangun Univ. / Uijeongbu / Soyosan — tàu đích Cheongnyangni phải xuống đổi.",
+          "notes": "Climate Card (short-term pass) chỉ dùng trong phạm vi Seoul\nHotel B (Seoul) — [hotel address]"
+        },
+        {
+          "time": "17h30–19h",
+          "duration": "1h30",
+          "type": "SIGHTSEEING",
+          "activity": "Dongdaemun Design Plaza (DDP)",
+          "area": "Dongdaemun",
+          "transport": "Subway L1 Hoegi → Dongdaemun (~10p) + đi bộ",
+          "notes": "Đến sau 17h30 để thấy lên đèn."
+        },
+        {
+          "time": "19h–20h30",
+          "duration": "1h30",
+          "type": "MEAL",
+          "activity": "DINNER: Dakhanmari (gà hầm) — ngõ Dakhanmari Dongdaemun",
+          "area": "Dongdaemun",
+          "transport": "Đi bộ từ DDP",
+          "notes": "Jinokhwa Halmae Wonjo Dakhanmari - 18 Jongno 40-ga-gil, Jongno-gu (ngõ Dakhanmari) - ~800 m / 11 phút đi bộ từ DDP - Must Eat: gà hầm nguyên con + mì kalguksu cho vào nồi",
+          "backup1": "Myeongdong Dakhanmari main - 14 Jongno 40-ga-gil, Jongno-gu (cùng ngõ) - ~15 m / 1 phút đi bộ - Must Eat: Gà hầm nguyên con nước cây eom-na-mu, gà xào cay",
+          "backup2": "Jin Wonjo Dakhanmari main - 252-11 Jong-ro, Jongno-gu (cùng block) - ~80 m / 1 phút đi bộ (ước tính) - Must Eat: Gà hầm nguyên con + mì kalguksu cho vào nồi"
+        },
+        {
+          "time": "20h30–21h30",
+          "duration": "1h",
+          "type": "SIGHTSEEING",
+          "activity": "Tự do: mua sắm Doota / Hyundai City Outlet cạnh DDP",
+          "area": "Dongdaemun",
+          "transport": "Đi bộ",
+          "notes": "Về Hoegi: Subway L1 Dongdaemun → Hoegi (~10p)."
+        }
+      ]
+    },
+    {
+      "banner": "DAY 4 — T3 27/10 (THỨ BA) — SUWON · YEOUIDO · HONGDAE",
+      "highlights": "★ HIGHLIGHTS: ⑧ Starfield Suwon Library (Byeolmadang)  ⑨ Công viên Yeouido Hangang  ④ Hongdae Street  (+ Hwaseong Haenggung, Hwaseong Fortress)",
+      "rows": [
+        {
+          "time": "7h00",
+          "duration": "30p",
+          "type": "MEETING",
+          "activity": "Tập trung xuất phát",
+          "area": "Hoegi",
+          "transport": "—",
+          "notes": "Cả đoàn có mặt đúng giờ để xuất phát lúc 7h30"
+        },
+        {
+          "time": "7h30–8h15",
+          "duration": "45p",
+          "type": "MEAL",
+          "activity": "BREAKFAST: Paris Baguette mang đi / gần khách sạn",
+          "area": "Hoegi",
+          "transport": "Đi bộ",
+          "notes": "Paris Baguette Beomil Jobang - 16-3 Beomil-ro 102beon-gil, Dong-gu - gần KS - Must Eat: Sandwich, bánh ngọt + cà phê",
+          "backup1": "Jeonju Kongppuri Kongnamul Gukbap Hoegi - 186 Hoegi-ro, Dongdaemun-gu - ~240 m / 3 phút đi bộ từ ga Hoegi - Must Eat: Canh giá đỗ giải rượu, canh cá minh thái khô",
+          "backup2": "Hwigyeong Halmae Sundaeguk - 76 Mangu-ro, Dongdaemun-gu - ~420 m / 6 phút đi bộ từ ga Hoegi - Must Eat: Canh dồi lợn, canh xương heo"
+        },
+        {
+          "time": "8h15–9h45",
+          "duration": "1h30",
+          "type": "TRANSPORT",
+          "activity": "Hoegi → Hwaseong Haenggung (Suwon)",
+          "area": "Suwon",
+          "transport": "Subway L1 Hoegi → ga Suwon (~1h20, có thể đổi tàu tại Guro tùy chuyến) + taxi/bus ~15p",
+          "notes": "Đi tàu L1 hướng Cheonan/Sinchang — kiểm tra bảng chuyến trên Naver Map"
+        },
+        {
+          "time": "9h45–11h00",
+          "duration": "1h15",
+          "type": "SIGHTSEEING",
+          "activity": "Hwaseong Haenggung (Hành cung)",
+          "area": "Suwon",
+          "transport": "Đi bộ",
+          "notes": "Mở 9h–18h. Nếu lịch còn chạy: biểu diễn võ thuật Muye24gi 11h tại quảng trường Haenggung. "
+        },
+        {
+          "time": "11h00–12h15",
+          "duration": "1h15",
+          "type": "SIGHTSEEING",
+          "activity": "Hwaseong Fortress (Tường thành Suwon)",
+          "area": "Suwon",
+          "transport": "Đi bộ",
+          "notes": "Đi theo chiều tường thành: Hwaseomun → Janganmun → Hwahongmun / Banghwasuryujeong (UNESCO). Kết thúc tại Hwahongmun, đi bộ tới quán ăn trưa. Tường thành ngoài trời, đi bộ tự do."
+        },
+        {
+          "time": "12h15–13h15",
+          "duration": "1h",
+          "type": "MEAL",
+          "activity": "LUNCH: Suwon Wanggalbi (sườn bò nướng Suwon)",
+          "area": "Suwon",
+          "transport": "Đi bộ (gần Hwahongmun)",
+          "notes": "Yeonpo Galbi - 56-1 Jeongjo-ro 906beon-gil, Paldal-gu, Suwon - cạnh Hwahongmun: ~60 m đường chim bay, ~500 m / 7 phút đi bộ vòng qua cầu suối - Must Eat: sườn bò nướng Suwon, set galbi ~33.000 KRW",
+          "backup1": "Haenggung-dong Samgyeopsal - 29 Jeongjo-ro 886beon-gil, Paldal-gu, Suwon - ~130 m / 2 phút đi bộ - Must Eat: Ba chỉ / nạc vai heo tươi nướng, cơm chiên trứng cá",
+          "backup2": "Hwahong Tongdak - 355 Suwoncheon-ro, Paldal-gu, Suwon - ~1,1 km / 15 phút đi bộ (ước tính) - Must Eat: Gà rán nồi gang kiểu Suwon, gà nửa rán nửa sốt"
+        },
+        {
+          "time": "13h15–13h35",
+          "duration": "20p",
+          "type": "TRANSPORT",
+          "activity": "Hwahongmun → Starfield Suwon",
+          "area": "Suwon",
+          "transport": "Taxi ~15–20p (2–3 xe)"
+        },
+        {
+          "time": "13h35–15h15",
+          "duration": "1h40",
+          "type": "SIGHTSEEING",
+          "activity": "Starfield Suwon — Byeolmadang Library",
+          "area": "Suwon",
+          "transport": "Đi bộ",
+          "notes": "Thư viện mở 10h–22h, miễn phí. Vào từ tầng 4. Có thể mua sắm trong mall."
+        },
+        {
+          "time": "15h15–16h45",
+          "duration": "1h30",
+          "type": "TRANSPORT",
+          "activity": "Starfield Suwon → Yeouido",
+          "area": "Yeouido",
+          "transport": "Ga Hwaseo (L1) → Singil, đổi L5 → Yeouinaru (~1h15)"
+        },
+        {
+          "time": "16h45–18h30",
+          "duration": "1h45",
+          "type": "SIGHTSEEING",
+          "activity": "Công viên Yeouido Hangang (Sông Hàn)",
+          "area": "Yeouido",
+          "transport": "Subway L5 Yeouinaru Exit 2/3",
+          "notes": "Kịp hoàng hôn ~17h50"
+        },
+        {
+          "time": "18h30–19h",
+          "duration": "30p",
+          "type": "TRANSPORT",
+          "activity": "Yeouido → Hongdae",
+          "area": "Hongdae",
+          "transport": "Subway L5 → L2"
+        },
+        {
+          "time": "19h–20h30",
+          "duration": "1h30",
+          "type": "MEAL",
+          "activity": "DINNER: Chopilsal Pork Grill Hongdae (sườn,heo nướng)",
+          "area": "Hongdae",
+          "transport": "Đi bộ",
+          "notes": "Chopilsal Pork Grill Hongdae - 172 Donggyo-ro, Mapo-gu - ~470 m / 6 phút đi bộ từ ga Hongik Univ. - Must Eat: sườn nướng, thịt heo nướng",
+          "backup1": "Sampyeong Sikdang Hongdae main - 164 Donggyo-ro, Mapo-gu - ~120 m / 2 phút đi bộ - Must Eat: Ba chỉ đông lạnh kiểu xưa, canh bí ngòi cay",
+          "backup2": "Mokgumeong Hongik Univ. Stn - 8 Worldcup buk-ro 4-gil, Mapo-gu - ~120 m / 2 phút đi bộ - Must Eat: Ba chỉ còn da, nạc vai đặc biệt + rau minari"
+        },
+        {
+          "time": "20h30–22h30",
+          "duration": "2h",
+          "type": "SIGHTSEEING",
+          "activity": "Hongdae Street",
+          "area": "Hongdae",
+          "transport": "Đi bộ",
+          "notes": "Busking & phố đêm. Sôi động nhất 20h–23h. Sau đó về Hoegi: Subway L2 Hongik University → City Hall → đổi L1 → Hoegi (~35-40p, 1 lần đổi tuyến) — kiểm tra giờ tàu cuối trước khi đi"
+        }
+      ]
+    },
+    {
+      "banner": "DAY 5 — T4 28/10 (THỨ TƯ) — CUNG ĐIỆN BUỔI SÁNG · EUNPYEONG · N SEOUL TOWER · MYEONGDONG",
+      "highlights": "★ HIGHLIGHTS: ⑤ Gyeongbokgung Palace  ⑥ Eunpyeong Hanok Village  ⑦ N Seoul Tower  ② Myeongdong (street food tối)  (+ Bukchon)",
+      "rows": [
+        {
+          "time": "6h30",
+          "duration": "30p",
+          "type": "MEETING",
+          "activity": "Tập trung xuất phát",
+          "area": "Hoegi",
+          "transport": "—",
+          "notes": "Cả đoàn có mặt đúng giờ để xuất phát lúc 6h30"
+        },
+        {
+          "time": "6h30–7h30",
+          "duration": "50p",
+          "type": "MEAL",
+          "activity": "BREAKFAST: Egg Excellent Kyung Hee",
+          "area": "Hoegi",
+          "transport": "Đi bộ",
+          "notes": "Egg Excellent Kyung Hee - Hoegi (gần ĐH Kyung Hee) - ~45 m đi bộ từ KS",
+          "backup1": "Hwigyeong Halmae Sundaeguk - 76 Mangu-ro, Dongdaemun-gu - ~420 m / 6 phút đi bộ từ ga Hoegi - Must Eat: Canh dồi lợn, canh xương heo",
+          "backup2": "Kimbap Cheonguk Hoegi - 83 Mangu-ro, Hwigyeong-dong, Dongdaemun-gu - ~450 m / 6 phút đi bộ từ ga Hoegi - Must Eat: Cơm cuộn, canh đậu hũ non"
+        },
+        {
+          "time": "7h30–8h30",
+          "duration": "40p",
+          "type": "TRANSPORT",
+          "activity": "Hoegi → Gyeongbokgung Palace",
+          "area": "Jongno",
+          "transport": "Subway L1 Hoegi → Jongno3-ga (~15p) → đổi L3 → Gyeongbokgung (~5p)"
+        },
+        {
+          "time": "9h00–10h45",
+          "duration": "1h45",
+          "type": "SIGHTSEEING",
+          "activity": "Gyeongbokgung Palace",
+          "area": "Jongno",
+          "transport": "Đi bộ",
+          "notes": "Đến đúng giờ mở cửa 9h00, kịp xem lễ đổi gác 10h00! "
+        },
+        {
+          "time": "10h45–11h15",
+          "duration": "30p",
+          "type": "SIGHTSEEING",
+          "activity": "Bukchon Hanok Village",
+          "area": "Bukchon",
+          "transport": "Đi bộ 10 phút",
+          "notes": "Samcheong-dong. Khu dân cư — giữ yên lặng."
+        },
+        {
+          "time": "11h15–11h40",
+          "duration": "25p",
+          "type": "TRANSPORT",
+          "activity": "Bukchon → Seochon",
+          "area": "Seochon",
+          "transport": "Đi bộ ~25p vòng phía nam Gyeongbokgung (qua Gwanghwamun), hoặc taxi ~10p"
+        },
+        {
+          "time": "11h40–12h35",
+          "duration": "55p",
+          "type": "MEAL",
+          "activity": "LUNCH: Tosokchon Samgyetang (Gà Hầm Sâm)",
+          "area": "Seochon",
+          "transport": "Đi bộ",
+          "notes": "Tosokchon Samgyetang - 5 Jahamun-ro 5-gil, Jongno-gu (Chebu-dong) - ~160 m / 2 phút đi bộ từ ga Gyeongbokgung - Must Eat: gà hầm sâm",
+          "backup1": "Chebudong Janchijip - 16 Jahamun-ro 1-gil, Jongno-gu (Gyeongbokgung Exit 2) - ~150 m / 2 phút đi bộ - Must Eat: Mì súp cá cơm, bánh xèo hải sản",
+          "backup2": "Halmaejip - 1-5 Sajik-ro 12-gil, Jongno-gu - ~440 m / 6 phút đi bộ - Must Eat: Canh xương heo, chân giò"
+        },
+        {
+          "time": "12h35–13h20",
+          "duration": "45p",
+          "type": "TRANSPORT",
+          "activity": "Seochon/Gyeongbokgung → Eunpyeong",
+          "area": "Eunpyeong-gu",
+          "transport": "Subway L3 trực tiếp Gyeongbokgung → Gupabal + bus 7723",
+          "notes": "Gyeongbokgung và Gupabal cùng nằm trên L3"
+        },
+        {
+          "time": "13h20–15h05",
+          "duration": "1h45",
+          "type": "SIGHTSEEING",
+          "activity": "Eunpyeong Hanok Village",
+          "area": "Eunpyeong-gu",
+          "transport": "Đi bộ"
+        },
+        {
+          "time": "15h05–15h35",
+          "duration": "30p",
+          "type": "MEAL",
+          "activity": "Cafe: View mái Hanok + Bukhansan",
+          "area": "Eunpyeong-gu",
+          "transport": "Đi bộ",
+          "notes": "1in1jan - 534 Yeonseo-ro, Eunpyeong-gu - ~130 m / 2 phút đi bộ từ cổng làng Eunpyeong Hanok - Must Eat: cà phê trên rooftop, view mái hanok + núi Bukhansan",
+          "backup1": "Cafe 309 (309) - 56-16 Uisangbong-gil, Jingwan-dong, Eunpyeong-gu (tầng 1–3 + rooftop) - ~300 m theo nguồn (chưa xác minh trên bản đồ) - Must Eat: Hazelnut Vienna, vang nóng, view Bukhansan",
+          "backup2": "Yeonjiwon, trà quán chùa Jingwansa - Trong chùa Jingwansa, Jingwan-dong, Eunpyeong-gu - ~1 km / 14 phút đi bộ - Must Eat: Trà ssanghwa, trà táo đỏ, ngồi sân hanok"
+        },
+        {
+          "time": "15h35–16h35",
+          "duration": "1h",
+          "type": "TRANSPORT",
+          "activity": "Eunpyeong → Namsan",
+          "area": "Namsan",
+          "transport": "Bus 7723 + Subway L3 → L4 Hoehyeon",
+          "notes": "Hoặc xuống ga Chungmuro / Dongguk Univ. rồi đi bus Namsan 01A/01B lên tháp"
+        },
+        {
+          "time": "16h35–18h50",
+          "duration": "2h15",
+          "type": "SIGHTSEEING",
+          "activity": "N Seoul Tower",
+          "area": "Namsan",
+          "transport": "Namsan Cable Car hoặc bus 01A/01B",
+          "notes": "Đèn đêm & khoá tình yêu. Mua vé online ~18.400 KRW (tại quầy 29.000)"
+        },
+        {
+          "time": "18h50–20h20",
+          "duration": "1h30",
+          "type": "MEAL",
+          "activity": "DINNER: Street Food Myeongdong + Gà rán",
+          "area": "Myeongdong",
+          "transport": "Cable car xuống + đi bộ",
+          "notes": "Duldul Chicken Myeongdong main - 5 Toegye-ro 20-gil, Jung-gu (tầng 1–2) - ~480 m / 6 phút đi bộ từ ga cáp treo Namsan - Must Eat: gà rán, gà sốt + street food Myeongdong",
+          "backup1": "Myeongdong Kyoja main - 29 Myeongdong 10-gil, Jung-gu - ~400 m / 5 phút đi bộ - Must Eat: Mì dao, sủi cảo",
+          "backup2": "Duldul Chicken Myeongdong 2 - 20-1 Myeongdong 7-gil, Jung-gu - ~700 m / 9 phút đi bộ (ước tính) - Must Eat: Gà rán, gà sốt"
+        },
+        {
+          "time": "20h20–21h00",
+          "duration": "40p",
+          "type": "TRANSPORT",
+          "activity": "Myeongdong → Hoegi",
+          "area": "Hoegi",
+          "transport": "Subway L4 → đổi L1 tại Dongdaemun"
+        }
+      ]
+    },
+    {
+      "banner": "DAY 6 — T5 29/10 (THỨ NĂM) — CAFE SÁNG · SHOPPING MYEONGDONG · GWANGJANG & GYEONGDONG → BAY 20h55",
+      "highlights": "★ HIGHLIGHTS: Shopping Olive Young / Lotte Myeongdong · Gwangjang Market · Starbucks Gyeongdong 1960",
+      "rows": [
+        {
+          "time": "7h30",
+          "duration": "30p",
+          "type": "MEETING",
+          "activity": "Tập trung + Check-out, gửi vali tại lễ tân",
+          "area": "Hoegi",
+          "transport": "—",
+          "notes": "KS cho check-out tới 13h — check-out luôn lúc đi để không phải quay về trước 12h."
+        },
+        {
+          "time": "8h00–8h40",
+          "duration": "40p",
+          "type": "TRANSPORT",
+          "activity": "Hoegi → Euljiro 1-ga (Myeongdong)",
+          "area": "Myeongdong",
+          "transport": "Subway L1 Hoegi → City Hall, đổi L2 → Euljiro 1-ga Exit 6, đi bộ ~70m (~30p)"
+        },
+        {
+          "time": "8h40–10h00",
+          "duration": "1h20",
+          "type": "MEAL",
+          "activity": "BREAKFAST + CAFE: Myeongdongyanggwa (명동양과)",
+          "area": "Myeongdong",
+          "transport": "Đi bộ",
+          "notes": "Myeongdongyanggwa - 23 Myeongdong 9-gil, Jung-gu - ~70 m / 1 phút đi bộ từ Euljiro 1-ga Exit 6 - Must Eat: bánh phô mai Emmental, bánh phô mai tỏi; có set brunch và egg toast\nCà phê specialty: LUFT Coffee (308 Samil-daero).",
+          "backup1": "Hadongkwan - 12 Myeongdong 9-gil, Jung-gu (cùng đường) - ~270 m / 4 phút đi bộ - Must Eat: Canh bò hầm trong, kimchi củ cải",
+          "backup2": "Miseongok - 25-11 Myeongdong-gil, Jung-gu - ~260 m / 4 phút đi bộ - Must Eat: Canh xương bò, thịt bò luộc"
+        },
+        {
+          "time": "10h00–12h00",
+          "duration": "2h",
+          "type": "SHOPPING",
+          "activity": "Mua quà: Olive Young + Lotte Department Store",
+          "area": "Myeongdong",
+          "transport": "Đi bộ",
+          "notes": "Đi Olive Young trước, Lotte sau. Mang hộ chiếu — Olive Young thường hoàn thuế ngay tại quầy (xác nhận khi thanh toán); Lotte lấy hoá đơn Tax Refund để làm ở sân bay."
+        },
+        {
+          "time": "12h00–12h25",
+          "duration": "25p",
+          "type": "TRANSPORT",
+          "activity": "Myeongdong → Gwangjang Market",
+          "area": "Jongno",
+          "transport": "Subway L2 Euljiro 1-ga → Euljiro 4-ga (2 trạm) + đi bộ ~7p, hoặc taxi ~15p",
+          "notes": "Trên đường về Hoegi — không đi ngược hướng"
+        },
+        {
+          "time": "12h25–13h30",
+          "duration": "1h05",
+          "type": "MEAL",
+          "activity": "LUNCH: Gwangjang Market",
+          "area": "Jongno",
+          "transport": "Đi bộ",
+          "notes": "Gwangjang Market - 88 Changgyeonggung-ro, Jongno-gu - ~290 m / 4 phút đi bộ từ ga Jongno 5-ga - Must Eat: bindaetteok (Sunhee-ne ~5.000 KRW), mayak gimbap (~4.000 KRW), kkwabaegi",
+          "backup1": "Buchon Yukhoe - 200-12 Jong-ro, Jongno-gu (ngõ yukhoe, chợ Gwangjang) - ~50 m / 1 phút đi bộ - Must Eat: Bò sống trộn lê, cơm trộn bò sống",
+          "backup2": "Parkane Bindaetteok - 7 Jongno 32-gil, Jongno-gu (trong chợ) - ~210 m / 3 phút đi bộ - Must Eat: Bánh đậu xanh xay cối đá, cơm trộn bò sống"
+        },
+        {
+          "time": "13h30–14h00",
+          "duration": "30p",
+          "type": "SIGHTSEEING",
+          "activity": "Dạo suối Cheonggyecheon",
+          "area": "Jongno",
+          "transport": "Đi bộ",
+          "notes": "Đoạn suối cạnh Gwangjang Market, sau đó đi bộ ra ga Jongno 5-ga."
+        },
+        {
+          "time": "14h00–15h00",
+          "duration": "1h",
+          "type": "SIGHTSEEING",
+          "activity": "Gyeongdong Market + Starbucks Gyeongdong 1960",
+          "area": "Jegi-dong",
+          "transport": "Subway L1 Jongno 5-ga → Jegi-dong (4 trạm, ~10p), Exit 2 đi bộ ~6p",
+          "notes": "Starbucks trong rạp phim cũ thập niên 1960 (tầng 3–4, mở 9h–22h, ~200 chỗ). Chợ thảo dược/nhân sâm lớn nhất Seoul — mua quà sâm, táo đỏ."
+        },
+        {
+          "time": "15h00–16h30",
+          "duration": "1h",
+          "type": "REST",
+          "activity": "Về khách sạn lấy vali, xếp quà, cân lại",
+          "area": "Hoegi",
+          "transport": "Subway L1 Jegi-dong → Hoegi (2 trạm, ~5p) hoặc đi bộ ~15p"
+        },
+        {
+          "time": "16h30",
+          "duration": "1h30",
+          "type": "TRANSPORT",
+          "activity": "Xe transit đón tại khách sạn -> Ga T1",
+          "area": "ICN",
+          "notes": "Đón 16h30 — dự phòng kẹt xe giờ cao điểm chiều\nHotel B (Seoul) — [hotel address]",
+          "critical": true
+        },
+        {
+          "time": "17h30–20h55",
+          "duration": "3h25",
+          "type": "TRANSPORT",
+          "activity": "Check-in - Tax Refund (hoàn thuế)",
+          "area": "ICN T1",
+          "transport": "Đi bộ",
+          "notes": "Thứ tự hoàn thuế (hàng trong vali ký gửi): 1) Check-in, BÁO NHÂN VIÊN vali có hàng hoàn thuế → 2) lấy lại vali → 3) kiosk Tax Refund → 4) quầy hải quan nếu kiosk yêu cầu (mang hàng nguyên seal + hộ chiếu) → 5) gửi vali ở băng chuyền cạnh quầy hải quan. Hàng xách tay: làm kiosk sau khu xuất cảnh. Quầy check-in thường đóng ~1h trước giờ bay.",
+          "critical": true
+        },
+        {
+          "time": "20h55–0h20",
+          "duration": "5h25",
+          "type": "TRANSPORT",
+          "activity": "XX202 Airline B: Incheon (ICN) → Đà Nẵng (DAD)",
+          "area": "Airport",
+          "transport": "Bay ~5h25, lệch giờ −2h",
+          "notes": "Flight Code: XX202 Airline B",
+          "critical": true
+        }
+      ]
+    }
+  ],
+  "checklists": {
+    "before": [
+      {
+        "category": "Hộ chiếu",
+        "detail": "Còn hạn ≥6 tháng từ ngày về. Photo 2 bản để riêng vali",
+        "when": "NGAY BÂY GIỜ",
+        "status": "Done"
+      },
+      {
+        "category": "Vé máy bay",
+        "detail": "ĐÃ ĐẶT — XX101 (DAD→PUS) + XX202 (ICN→DAD)",
+        "when": "NGAY BÂY GIỜ",
+        "status": "Done"
+      },
+      {
+        "category": "Booking phòng 5 đêm",
+        "detail": "Busan 2 đêm (Nampo) + Seoul 3 đêm (Myeongdong). Chọn free cancellation",
+        "when": "NGAY BÂY GIỜ",
+        "status": "Done"
+      },
+      {
+        "category": "Visa Hàn Quốc C-3-9",
+        "detail": "In giấy VÀ lưu điện thoại",
+        "when": "QUÁ HẠN",
+        "link": "https://www.visa.go.kr",
+        "status": "Done"
+      },
+      {
+        "category": "Vé Sky Capsule (Blueline Park)",
+        "detail": "Cho CN 25/10 — hết vé sớm nhất. Beach Train dễ còn chỗ hơn",
+        "when": "trước 25/09",
+        "link": "https://www.bluelinepark.com",
+        "status": "Done"
+      },
+      {
+        "category": "Vé KTX Busan → Seoul",
+        "detail": "Chuyến ~13:30 ngày T2 26/10",
+        "when": "19–20/10",
+        "link": "https://www.letskorail.com",
+        "status": "Done"
+      },
+      {
+        "category": "Book Vé N Seoul Tower (Klook)",
+        "detail": "372k 1 người  (mua vé ngày T4 28.10)",
+        "when": "trước 16/10",
+        "link": "https://www.seoultower.co.kr"
+      },
+      {
+        "category": "Book xe đón khách sạn - > sân bay seoul",
+        "detail": "Book cho ngày về D6 (29 Oct - 16 PM)",
+        "link": "KKDay (1tr6)"
+      },
+      {
+        "category": "Đổi tiền won",
+        "detail": "10tr ~ 500k won /1 người",
+        "when": "trước 16/10"
+      },
+      {
+        "category": "eSIM 5GB/6 ngày",
+        "detail": "Gói eSim unlimited 6 days (Klook 25xk , Shoppe 3xxk)",
+        "when": "trước 16/10"
+      },
+      {
+        "category": "Flight: Check-in online + chọn ghế",
+        "detail": "Check in online cho chuyến Busan & Seoul",
+        "when": "22/10"
+      },
+      {
+        "category": "Khai báo nhập cảnh hàn",
+        "detail": "Trước ngày bay 1-3 days",
+        "link": "Official Korea e-Arrival card"
+      },
+      {
+        "category": "Lưu thông tin vào máy để nhập cảnh",
+        "detail": "Thông tin booking visa, vé, khách sạn, lịch trình",
+        "when": "22/10"
+      },
+      {
+        "category": "Khai báo Q-CODE (Optional)",
+        "detail": "Kiểm dịch y tế online, mã QR — qua sân bay nhanh hơn",
+        "when": "20–22/10",
+        "link": "https://cov19ent.kdca.go.kr"
+      }
+    ],
+    "apps": [
+      {
+        "category": "Naver Map + Kakao Map",
+        "detail": "BẮT BUỘC — Google Maps không chỉ đường được ở Hàn Quốc",
+        "link": "https://map.naver.com"
+      },
+      {
+        "category": "Kakao T",
+        "detail": "Gọi taxi — Hàn Quốc không có Grab"
+      },
+      {
+        "category": "Korail Talk",
+        "detail": "Vé KTX Busan",
+        "link": "https://www.letskorail.com"
+      },
+      {
+        "category": "Klook",
+        "detail": "Mua vé N Seoul Tower, Sky Capsule rẻ hơn quầy",
+        "link": "https://www.klook.com"
+      },
+      {
+        "category": "MobileTmoney",
+        "detail": "App quản lý TMoney"
+      }
+    ],
+    "items": [
+      {
+        "category": "Hộ chiếu + visa (bản gốc)",
+        "detail": "Photo để riêng vali khác, in sẵn 1 bản lịch trình",
+        "when": "—"
+      },
+      {
+        "category": "Vé bay + booking phòng/lịch trình",
+        "detail": "In giấy VÀ lưu điện thoại",
+        "when": "—"
+      },
+      {
+        "category": "Thẻ Visa/Master",
+        "detail": "Mang 2 thẻ khác ngân hàng đề phòng 1 thẻ bị khoá",
+        "when": "—"
+      },
+      {
+        "category": "Adapter du lịch (2 chân tròn, 220V)",
+        "detail": "Mang 2 cái — dorm thường chỉ có 1 ổ gần giường",
+        "when": "—"
+      },
+      {
+        "category": "Đổi thẻ Tmoney (CU Store) - Busan",
+        "detail": "Nạp tiền đi bus/train/subway Seoul - Busan và dùng để mua sắm chi tiêu"
+      },
+      {
+        "category": "Đổi thẻ Climate Card (Seoul)",
+        "detail": "Climate Card mua gói bus 3 days only Seoul (10k won + 3k thẻ)"
+      }
+    ],
+    "before_label": "A. BEFORE — TRƯỚC CHUYẾN ĐI (xếp theo hạn, làm từ trên xuống)",
+    "apps_label": "B. APP NÊN CÀI",
+    "items_label": "C. VẬT DỤNG BẮT BUỘC MANG THEO"
+  },
+  "local_name_label": "Korean Name",
+  "food": [
+    {
+      "title": "DAY 1 — BUSAN: NAMPO & GAMCHEON",
+      "rows": [
+        {
+          "day": "D1",
+          "name": "Dwaeji Gukbap — Seojinseop",
+          "local": "서진섭돼지국밥",
+          "area": "Nampo/Busan",
+          "price": "9,000–12,000",
+          "booked": "Có thể đặt",
+          "notes": "BREAKFAST D1 — Bib Gourmand, chuẩn vị nhất | BREAKFAST D1 — đổi từ \"Jeongjitgan\" (quán đó ở gần ga Busan, không phải Nampo). Mở 9h–20h, đóng cửa CN tuần 1/3/5.",
+          "address": "30-1 Gwangbok-ro 39beon-gil, Jung-gu (Nampo)"
+        },
+        {
+          "day": "D1",
+          "name": "Jagalchi Fish Market (hải sản tầng 2)",
+          "local": "자갈치시장",
+          "area": "Jagalchi",
+          "price": "20,000–40,000",
+          "booked": "Không đặt",
+          "notes": "LUNCH D1 — chọn cá tầng 1, hỏi giá trước",
+          "address": "52 Jagalchihaean-ro, Jung-gu"
+        },
+        {
+          "day": "D1",
+          "name": "Ssiat Hotteok",
+          "local": "씨앗호떡",
+          "area": "BIFF Square",
+          "price": "2,000–3,000",
+          "booked": "—",
+          "notes": "Ăn vặt chiều D1 — xếp hàng"
+        },
+        {
+          "day": "D1",
+          "name": "Naengchae Jokbal — Bupyeong Jokbal",
+          "local": "부평족발",
+          "area": "Bupyeong/Nampo",
+          "price": "20,000–30,000",
+          "booked": "Không đặt",
+          "notes": "DINNER D1 | DINNER D1. Mở 11h–24h.",
+          "address": "19-2 Gwangbok-ro, Jung-gu (Nampo)"
+        },
+        {
+          "day": "D1",
+          "name": "Gomjangeo nướng (lươn biển)",
+          "local": "곰장어",
+          "area": "Jagalchi/Gijang",
+          "price": "20,000–35,000",
+          "booked": "Không đặt",
+          "notes": "DINNER D1 — món thay thế"
+        }
+      ]
+    },
+    {
+      "title": "DAY 2 — BUSAN: HAEUNDAE",
+      "rows": [
+        {
+          "day": "D2",
+          "name": "Haeundae Traditional Market",
+          "local": "해운대전통시장",
+          "area": "Haeundae",
+          "price": "8,000–18,000",
+          "booked": "Không đặt",
+          "notes": "LUNCH D2"
+        },
+        {
+          "day": "D2",
+          "name": "Milmyeon — Gome Milmyeon",
+          "local": "고메밀면",
+          "area": "Choryang/Gaeguri",
+          "price": "9,000–12,000",
+          "booked": "Không đặt",
+          "notes": "DINNER D2 | DINNER D2. Ghi tên chờ tại quán, giờ trưa/tối đông.",
+          "address": "13-1 Gunam-ro, Haeundae-gu"
+        },
+        {
+          "day": "D2",
+          "name": "Cà phê Cheongsapo / Dalmaji-gil",
+          "local": "청사포 카페거리",
+          "area": "Cheongsapo",
+          "price": "7,000–14,000",
+          "booked": "Không đặt",
+          "notes": "Sau Sky Capsule D2"
+        },
+        {
+          "day": "D2",
+          "name": "The Bay 101 (đồ uống + view đêm)",
+          "local": "더베이101",
+          "area": "Haeundae",
+          "price": "7,000–15,000",
+          "booked": "Không đặt",
+          "notes": "Tối D2 — sau hoàng hôn"
+        }
+      ]
+    },
+    {
+      "title": "DAY 3 — BUSAN → SEOUL: DDP & MYEONGDONG",
+      "rows": [
+        {
+          "day": "D3",
+          "name": "Samjin Eomuk (mua quà chả cá)",
+          "local": "삼진어묵",
+          "area": "Ga Busan",
+          "price": "5,000–12,000",
+          "booked": "Không đặt",
+          "notes": "Mua ở Busan (Day 3) — rẻ hơn Seoul"
+        },
+        {
+          "day": "D3",
+          "name": "Milmyeon / gukbap gần ga Busan — Hwangsan Milmyeon",
+          "local": "황산밀면",
+          "area": "Busan Station",
+          "price": "9,000–12,000",
+          "booked": "Không đặt",
+          "notes": "LUNCH D3 | LUNCH D3. Đi bộ ~5–10 phút từ ga Busan cổng 1.",
+          "address": "6-11 Jungang-daero 180beon-gil, Dong-gu"
+        },
+        {
+          "day": "D3",
+          "name": "Jokbal (chân giò) khu Dongdaemun — Manjok Ohyang Jokbal",
+          "local": "만족오향족발",
+          "area": "Dongdaemun",
+          "price": "18,000–28,000",
+          "booked": "Có thể đặt (nhóm)",
+          "notes": "DINNER D3 | DINNER D3. Chỉ mở từ 15h — nhận đặt nhóm qua Naver/điện thoại.",
+          "address": "9-4 Eulji-ro 43-gil, Jung-gu"
+        },
+        {
+          "day": "D3",
+          "name": "Myeongdong Street Food Carts",
+          "local": "명동 노점",
+          "area": "Myeongdong",
+          "price": "3,000–8,000/món",
+          "booked": "—",
+          "notes": "Tối D3 — xe đẩy mở 18:00–23:00"
+        }
+      ]
+    },
+    {
+      "title": "DAY 4 — GAPYEONG & HONGDAE",
+      "rows": [
+        {
+          "day": "D4",
+          "name": "Quán ăn địa phương gần Gapyeong",
+          "local": "—",
+          "area": "Gapyeong",
+          "price": "10,000–15,000",
+          "booked": "Chưa chốt",
+          "notes": "LUNCH D4 — đã bỏ phương án ăn trên đảo Nami, ăn tại Gapyeong trước khi qua Petite France | LUNCH D4 — đã bỏ phương án ăn trên đảo Nami, ăn tại Gapyeong trước khi qua Petite France. Tránh khu Jarasum (xa tuyến bus, cần taxi riêng).",
+          "address": "CHƯA CHỐT — chọn khi tới ga Gapyeong / trên tuyến City Tour Bus"
+        },
+        {
+          "day": "D4",
+          "name": "Gapyeong Jat Makguksu",
+          "local": "잣막국수",
+          "area": "Ga Gapyeong",
+          "price": "9,000–12,000",
+          "booked": "Không đặt",
+          "notes": "Ăn nhẹ giữa 2 điểm D4"
+        },
+        {
+          "day": "D4",
+          "name": "Seokyo Nanmyunbang",
+          "local": "서교난면방",
+          "area": "Hongdae",
+          "price": "12,000–18,000",
+          "booked": "Không đặt",
+          "notes": "DINNER D4 — Bib Gourmand | DINNER D4 — Bib Gourmand. ⚠ ĐÓNG CỬA THỨ BA — Day 4 = Thứ Ba 27/10, cần đổi quán hoặc xác nhận lại trước.",
+          "address": "16 Donggyo-ro 12-gil, Mapo-gu (Hongdae)"
+        }
+      ]
+    },
+    {
+      "title": "DAY 5 — CUNG ĐIỆN, EUNPYEONG, NAMSAN",
+      "rows": [
+        {
+          "day": "D5",
+          "name": "Isaac Toast / tiện lợi",
+          "local": "—",
+          "area": "Myeongdong",
+          "price": "~6,000",
+          "booked": "—",
+          "notes": "BREAKFAST D5"
+        },
+        {
+          "day": "D5",
+          "name": "Tosokchon Samgyetang",
+          "local": "토속촌삼계탕",
+          "area": "Seochon",
+          "price": "20,000–23,000",
+          "booked": "Không đặt",
+          "notes": "LUNCH D5 — xếp hàng 20–40 phút | LUNCH D5 — xếp hàng 20–40 phút. Mở 10h–22h.",
+          "address": "5 Jahamun-ro 5-gil, Jongno-gu (Chebu-dong)"
+        },
+        {
+          "day": "D5",
+          "name": "Cà phê view hanok & Bukhansan — 1 in 1 Cup",
+          "local": "1인1잔",
+          "area": "Eunpyeong",
+          "price": "7,000–13,000",
+          "booked": "Không đặt",
+          "notes": "Nghỉ chân D5 — quanh làng ít quán khác | Nghỉ chân D5 — mở 10h–21h.",
+          "address": "534 Yeonseo-ro, Eunpyeong-gu"
+        },
+        {
+          "day": "D5",
+          "name": "Gà rán / street food Myeongdong — Duldul Chicken",
+          "local": "둘둘치킨 명동본점",
+          "area": "Myeongdong",
+          "price": "~15,000",
+          "booked": "Có thể đặt",
+          "notes": "DINNER D5 | DINNER D5. Đóng cửa Chủ Nhật (không ảnh hưởng — Day 5 là Thứ Tư).",
+          "address": "5 Toegye-ro 20-gil, Jung-gu"
+        }
+      ]
+    },
+    {
+      "title": "DAY 6 — SUWON, YEOUIDO → BAY 20:55",
+      "rows": [
+        {
+          "day": "D6",
+          "name": "Suwon Wanggalbi — Bonsuwon Galbi",
+          "local": "본수원갈비",
+          "area": "Suwon",
+          "price": "40,000–60,000",
+          "booked": "Không nhận đặt",
+          "notes": "LUNCH D6",
+          "address": "41 Jungbu-daero 223beon-gil, Paldal-gu (Uman-dong)"
+        },
+        {
+          "day": "D6",
+          "name": "Suwon Wanggalbi — Gabojeong (thay thế)",
+          "local": "가보정",
+          "area": "Suwon",
+          "price": "50,000–80,000",
+          "booked": "Nên đặt",
+          "notes": "LUNCH D6 — đắt hơn, có set trưa rẻ | LUNCH D6 — đắt hơn, có set trưa rẻ. CẦN ĐẶT TRƯỚC tối thiểu 4 người, cọc 10.000 KRW/người, hủy trước 2 ngày mới hoàn cọc.",
+          "address": "282 Jangdari-ro, Paldal-gu"
+        },
+        {
+          "day": "D6",
+          "name": "IFC Mall Food Court",
+          "local": "IFC몰 푸드코트",
+          "area": "Yeouido",
+          "price": "10,000–15,000",
+          "booked": "Không đặt",
+          "notes": "Dự phòng nhanh/mưa trước khi ra sân bay"
+        }
+      ]
+    },
+    {
+      "title": "MÓN NÊN THỬ (chung, không gắn ngày cụ thể)",
+      "rows": [
+        {
+          "day": "—",
+          "name": "Hotteok",
+          "local": "호떡",
+          "area": "Chợ đường phố",
+          "price": "1,500–3,000",
+          "booked": "—",
+          "notes": "Bản Busan (ssiat) khác bản Seoul"
+        },
+        {
+          "day": "—",
+          "name": "Bungeoppang",
+          "local": "붕어빵",
+          "area": "Xe đẩy vỉa hè",
+          "price": "1,000–3,000",
+          "booked": "—",
+          "notes": "Chỉ bán mùa lạnh"
+        },
+        {
+          "day": "—",
+          "name": "Makgeolli",
+          "local": "막걸리",
+          "area": "Chợ / quán nhậu",
+          "price": "4,000–6,000",
+          "booked": "—",
+          "notes": "Hợp trời lạnh"
+        },
+        {
+          "day": "—",
+          "name": "Eomuk (chả cá Busan)",
+          "local": "부산어묵",
+          "area": "Busan",
+          "price": "3,000–10,000",
+          "booked": "—",
+          "notes": "Mua hộp làm quà ở ga/sân bay"
+        }
+      ]
+    },
+    {
+      "title": "TIỆN LỢI",
+      "rows": [
+        {
+          "day": "—",
+          "name": "GS25 / CU / 7-Eleven",
+          "local": "편의점",
+          "area": "Khắp nơi, 24h",
+          "price": "3,000–7,000",
+          "booked": "—",
+          "notes": "Ăn sáng tiết kiệm — tiết kiệm ~500.000 VND cả 6 ngày"
+        },
+        {
+          "day": "—",
+          "name": "Mega Coffee / Ediya",
+          "local": "메가커피",
+          "area": "Khắp nơi",
+          "price": "1,500–3,000",
+          "booked": "—",
+          "notes": "Rẻ hơn Starbucks ~50%"
+        }
+      ]
+    },
+    {
+      "title": "BỔ SUNG — QUÁN/MÓN MỚI TÌM (theo khu vực, chưa gắn ngày cụ thể)",
+      "rows": [
+        {
+          "day": "—",
+          "name": "Myth Jokbal",
+          "local": "—",
+          "area": "Hongdae",
+          "price": "—",
+          "booked": "—"
+        },
+        {
+          "day": "—",
+          "name": "Hong Kong Banjum 0410",
+          "local": "—",
+          "area": "Seoul (trung tâm)",
+          "price": "—",
+          "booked": "—"
+        },
+        {
+          "day": "—",
+          "name": "Eight Flavors BBQ",
+          "local": "—",
+          "area": "Seoul",
+          "price": "—",
+          "booked": "—"
+        },
+        {
+          "day": "—",
+          "name": "Kyochon Chicken",
+          "local": "—",
+          "area": "Seoul (chuỗi)",
+          "price": "—",
+          "booked": "—"
+        },
+        {
+          "day": "—",
+          "name": "Seolleongtang (canh xương bò)",
+          "local": "—",
+          "area": "Myeongdong",
+          "price": "—",
+          "booked": "—"
+        },
+        {
+          "day": "—",
+          "name": "Quán cháo Heejuk Heejuk",
+          "local": "—",
+          "area": "Myeongdong",
+          "price": "—",
+          "booked": "—"
+        },
+        {
+          "day": "—",
+          "name": "Mugouk Samgyetang",
+          "local": "—",
+          "area": "Gần cung Gyeongbokgung",
+          "price": "—",
+          "booked": "—"
+        },
+        {
+          "day": "—",
+          "name": "London Bagel Museum",
+          "local": "—",
+          "area": "Gần cung Gyeongbokgung",
+          "price": "—",
+          "booked": "—"
+        },
+        {
+          "day": "—",
+          "name": "Dotori Garden",
+          "local": "—",
+          "area": "Gần cung Gyeongbokgung",
+          "price": "—",
+          "booked": "—"
+        },
+        {
+          "day": "—",
+          "name": "Blue Bottle Coffee",
+          "local": "—",
+          "area": "Gần cung Gyeongbokgung",
+          "price": "—",
+          "booked": "—"
+        },
+        {
+          "day": "—",
+          "name": "MeiTaWang Egg Tart",
+          "local": "—",
+          "area": "Seongsu-dong",
+          "price": "—",
+          "booked": "—",
+          "notes": "Khu vực chưa có trong lịch trình hiện tại — cần chỉnh route nếu muốn ghé"
+        },
+        {
+          "day": "—",
+          "name": "Tiệm bánh mì muối (chưa rõ tên)",
+          "local": "—",
+          "area": "Seongsu-dong",
+          "price": "—",
+          "booked": "—",
+          "notes": "Khu vực chưa có trong lịch trình hiện tại — cần chỉnh route nếu muốn ghé"
+        },
+        {
+          "day": "—",
+          "name": "Bạch tuộc nướng (Grilled Baby Octopus)",
+          "local": "—",
+          "area": "Myeongdong (ăn vặt đường phố)",
+          "price": "—",
+          "booked": "—"
+        },
+        {
+          "day": "—",
+          "name": "Xiên thịt bò Wagyu nướng",
+          "local": "—",
+          "area": "Myeongdong (ăn vặt đường phố)",
+          "price": "—",
+          "booked": "—"
+        },
+        {
+          "day": "—",
+          "name": "Takoyaki",
+          "local": "—",
+          "area": "Myeongdong (ăn vặt đường phố)",
+          "price": "—",
+          "booked": "—"
+        },
+        {
+          "day": "—",
+          "name": "Dubai Pistachio Waffle",
+          "local": "—",
+          "area": "Myeongdong (ăn vặt đường phố)",
+          "price": "—",
+          "booked": "—"
+        },
+        {
+          "day": "—",
+          "name": "Tanghulu (trái cây bọc đường)",
+          "local": "—",
+          "area": "Myeongdong (ăn vặt đường phố)",
+          "price": "—",
+          "booked": "—"
+        },
+        {
+          "day": "—",
+          "name": "Chợ Gwangjang (Gwangjang Market)",
+          "local": "—",
+          "area": "Trung tâm Seoul",
+          "price": "—",
+          "booked": "—",
+          "notes": "Khu vực chưa có trong lịch trình hiện tại — cần chỉnh route nếu muốn ghé"
+        },
+        {
+          "day": "—",
+          "name": "Dakgalbi (gà xào cay) tại Hongdae",
+          "local": "—",
+          "area": "Hongdae",
+          "price": "—",
+          "booked": "—"
+        },
+        {
+          "day": "—",
+          "name": "BHC Chicken",
+          "local": "—",
+          "area": "Gần Lotte World / Seoul Sky",
+          "price": "—",
+          "booked": "—",
+          "notes": "Khu vực chưa có trong lịch trình hiện tại — cần chỉnh route nếu muốn ghé"
+        },
+        {
+          "day": "—",
+          "name": "Cafe Pokpo",
+          "local": "—",
+          "area": "Gần cung Gyeongbokgung",
+          "price": "—",
+          "booked": "—"
+        },
+        {
+          "day": "—",
+          "name": "Bánh kẹo làm quà: Lotte Zero Mini Cacao",
+          "local": "—",
+          "area": "Siêu thị / Korea Mart",
+          "price": "—",
+          "booked": "—"
+        }
+      ],
+      "backup": true
+    }
+  ],
+  "attraction_title": "ATTRACTION — SEOUL · BUSAN",
+  "attractions": [
+    {
+      "title": "BUSAN (Day 1-3)",
+      "rows": [
+        {
+          "city": "Busan",
+          "name": "Gamcheon Culture Village",
+          "local": "감천문화마을",
+          "category": "Làng bích hoạ",
+          "access": "Subway L1 Toseong → bus 2/2-2",
+          "ticket": "0 (bản đồ 3,000)",
+          "time": "2–3h",
+          "notes": "Đi trước 09:30 — vắng hơn. Khu dân cư thật, giữ trật tự"
+        },
+        {
+          "city": "Busan",
+          "name": "Haedong Yonggungsa Temple",
+          "local": "해동용궁사",
+          "category": "Chùa ven biển",
+          "access": "Subway L2 Haeundae → bus 181",
+          "ticket": "0",
+          "time": "2–3h",
+          "notes": "Chủ Nhật đông nhất — đi sớm"
+        },
+        {
+          "city": "Busan",
+          "name": "Haeundae Blueline Park — Sky Capsule / Beach Train",
+          "local": "해운대 블루라인파크",
+          "category": "Trải nghiệm ven biển",
+          "access": "Ga Mipo (đi bộ từ Haeundae)",
+          "ticket": "30,000–45,000",
+          "time": "1–2h",
+          "notes": "PHẢI ĐẶT TRƯỚC — khung hoàng hôn hết vé trước ~4 tuần"
+        },
+        {
+          "city": "Busan",
+          "name": "Dalmaji-gil",
+          "local": "달맞이길",
+          "category": "Đường dạo ven biển",
+          "access": "Đi bộ từ ga Mipo",
+          "ticket": "0",
+          "time": "1.5h",
+          "notes": "Lá đỏ đỉnh đầu tháng 11 — cuối 10 mới chớm"
+        },
+        {
+          "city": "Busan",
+          "name": "Gukje Market & BIFF Square",
+          "local": "국제시장·BIFF광장",
+          "category": "Chợ / quảng trường",
+          "access": "Subway L1 Jagalchi Exit 7",
+          "ticket": "0",
+          "time": "1.5h",
+          "notes": "Ssiat hotteok — biến thể chỉ Busan mới có"
+        },
+        {
+          "city": "Busan",
+          "name": "Jagalchi Fish Market",
+          "local": "자갈치시장",
+          "category": "Chợ cá",
+          "access": "Subway L1 Jagalchi Exit 10",
+          "ticket": "0 (giá hải sản riêng)",
+          "time": "1.5h",
+          "notes": "Chọn cá tầng 1 — hỏi giá trước khi chế biến"
+        },
+        {
+          "city": "Busan",
+          "name": "Haeundae Beach",
+          "local": "해운대해수욕장",
+          "category": "Bãi biển",
+          "access": "Subway L2 Haeundae",
+          "ticket": "0",
+          "time": "1.5h",
+          "notes": "Tháng 10 không tắm được — đi dạo, hoàng hôn đẹp"
+        },
+        {
+          "city": "Busan",
+          "name": "The Bay 101",
+          "local": "더베이101",
+          "category": "View đêm",
+          "access": "Haeundae",
+          "ticket": "0",
+          "time": "1h",
+          "notes": "Tới sau hoàng hôn"
+        },
+        {
+          "city": "Busan",
+          "name": "Yongdusan Park & Busan Tower",
+          "local": "용두산공원 부산타워",
+          "category": "Công viên / đài quan sát",
+          "access": "Subway L1 Nampo Exit 1",
+          "ticket": "12,000 (park free)",
+          "time": "1.5h",
+          "notes": "Công viên miễn phí, có thang cuốn"
+        },
+        {
+          "city": "Busan",
+          "name": "Bosu-dong Book Street",
+          "local": "보수동책방골목",
+          "category": "Phố sách cũ",
+          "access": "Nampo, cạnh Gukje Market",
+          "ticket": "0",
+          "time": "1h",
+          "notes": "Không tốn thời gian di chuyển"
+        },
+        {
+          "city": "Busan",
+          "name": "Gwangalli Beach & Gwangan Bridge (dự phòng)",
+          "local": "광안리해수욕장",
+          "category": "Bãi biển / cầu",
+          "access": "Subway L2 Gwangan Exit 3/5",
+          "ticket": "0",
+          "time": "1.5h",
+          "notes": "Backup nếu còn sức tối Day 2"
+        }
+      ]
+    },
+    {
+      "title": "GAPYEONG (Day 4)",
+      "rows": [
+        {
+          "city": "Gapyeong",
+          "name": "Garden of Morning Calm",
+          "local": "아침고요수목원",
+          "category": "Vườn thực vật",
+          "access": "Gapyeong City Tour Bus",
+          "ticket": "11,000",
+          "time": "2–3h",
+          "notes": "Cao điểm 20/10–5/11"
+        },
+        {
+          "city": "Gapyeong",
+          "name": "Petite France",
+          "local": "쁘띠프랑스",
+          "category": "Làng chủ đề",
+          "access": "Gapyeong City Tour Bus",
+          "ticket": "12,000",
+          "time": "1.5h",
+          "notes": "Dễ bỏ nếu muốn về Hongdae sớm hơn"
+        }
+      ]
+    },
+    {
+      "title": "SEOUL & SUWON (Day 3, 5, 6)",
+      "rows": [
+        {
+          "city": "Seoul",
+          "name": "Dongdaemun Design Plaza (DDP)",
+          "local": "동대문디자인플라자",
+          "category": "Kiến trúc",
+          "access": "Subway L2/L4/L5 DDP Exit 1",
+          "ticket": "0 (ngoại thất)",
+          "time": "1.5h",
+          "notes": "Đến sau 17:30 để thấy lên đèn"
+        },
+        {
+          "city": "Seoul",
+          "name": "Myeongdong",
+          "local": "명동",
+          "category": "Mua sắm",
+          "access": "Subway L4 Myeongdong Exit 6",
+          "ticket": "0",
+          "time": "2h",
+          "notes": "Xe đẩy street food mở 18:00–23:00"
+        },
+        {
+          "city": "Seoul",
+          "name": "Hongdae Street",
+          "local": "홍대거리",
+          "category": "Phố giải trí",
+          "access": "Subway L2 Hongik Univ. Exit 9",
+          "ticket": "0",
+          "time": "2h",
+          "notes": "Busking sôi động nhất 20:00–23:00"
+        },
+        {
+          "city": "Seoul",
+          "name": "Gyeongbokgung Palace",
+          "local": "경복궁",
+          "category": "Cung điện",
+          "access": "Subway L3 Gyeongbokgung Exit 5",
+          "ticket": "3,000 (free mặc hanbok)",
+          "time": "2h",
+          "notes": "Nghỉ Thứ Ba. Đổi gác 10:00 & 14:00"
+        },
+        {
+          "city": "Seoul",
+          "name": "Bukchon Hanok Village",
+          "local": "북촌한옥마을",
+          "category": "Làng cổ",
+          "access": "Subway L3 Anguk Exit 2",
+          "ticket": "0",
+          "time": "1h",
+          "notes": "Khu dân cư thật — giữ yên lặng"
+        },
+        {
+          "city": "Seoul",
+          "name": "Eunpyeong Hanok Village",
+          "local": "은평한옥마을",
+          "category": "Làng hanok",
+          "access": "Subway L3 Gupabal + bus 7723",
+          "ticket": "0",
+          "time": "2h",
+          "notes": "Mở 24h, miễn phí — vắng hơn Bukchon"
+        },
+        {
+          "city": "Seoul",
+          "name": "N Seoul Tower",
+          "local": "N서울타워",
+          "category": "Đài quan sát",
+          "access": "Cable car từ Hoehyeon",
+          "ticket": "18,400 online / 29,000 tại quầy",
+          "time": "1.5h",
+          "notes": "Mua vé online trước"
+        },
+        {
+          "city": "Suwon",
+          "name": "Starfield Suwon — Byeolmadang Library",
+          "local": "스타필드 수원 별마당도서관",
+          "category": "Thư viện / mua sắm",
+          "access": "Ga Hwaseo Exit 1",
+          "ticket": "0",
+          "time": "2h",
+          "notes": "Đến đúng 10:00 ngày thường để vắng người"
+        },
+        {
+          "city": "Seoul",
+          "name": "Công viên Yeouido Hangang (sông Hàn)",
+          "local": "여의도한강공원",
+          "category": "Công viên sông",
+          "access": "Subway L5 Yeouinaru Exit 2/3",
+          "ticket": "0",
+          "time": "1.5–2h",
+          "notes": "Cao điểm lá vàng 25/10–5/11"
+        }
+      ]
+    },
+    {
+      "title": "DỰ PHÒNG KHI MƯA",
+      "rows": [
+        {
+          "city": "Seoul",
+          "name": "National Museum of Korea",
+          "local": "국립중앙박물관",
+          "category": "Bảo tàng",
+          "access": "Subway L4/Jungang Ichon Exit 2",
+          "ticket": "0",
+          "time": "2–3h",
+          "notes": "Phương án số 1 nếu gặp mưa ở Seoul"
+        },
+        {
+          "city": "Busan",
+          "name": "SEA LIFE Busan Aquarium",
+          "local": "씨라이프 부산아쿠아리움",
+          "category": "Thuỷ cung",
+          "access": "Dưới bãi biển Haeundae",
+          "ticket": "~30,000",
+          "time": "2h",
+          "notes": "Chỉ nên đi nếu gặp mưa ở Busan"
+        }
+      ]
+    },
+    {
+      "title": "BACKUP — ĐIỂM HOT THAY THẾ (nếu dư thời gian / muốn đổi lịch)",
+      "rows": [
+        {
+          "city": "Busan",
+          "name": "Busan X the Sky (Haeundae)",
+          "local": "부산 엑스더스카이",
+          "category": "Đài quan sát",
+          "access": "Subway L2 Haeundae, đi bộ ra Marine City",
+          "ticket": "27,000 (mua online rẻ hơn ~30%)",
+          "time": "1–1.5h",
+          "notes": "View toàn cảnh Haeundae, Gwangan Bridge, Dalmaji-gil — Sky Bridge/Zipline phụ thu riêng"
+        },
+        {
+          "city": "Busan",
+          "name": "Taejongdae + Danubi Train",
+          "local": "태종대",
+          "category": "Công viên bờ biển",
+          "access": "Bus 88/101 từ Nampo/ga Busan",
+          "ticket": "0 công viên (Danubi Train 3,000)",
+          "time": "2h",
+          "notes": "Vách đá, hải đăng — điểm ngắm biển nổi tiếng nhất Busan"
+        },
+        {
+          "city": "Busan",
+          "name": "Oryukdo Skywalk",
+          "local": "오륙도 스카이워크",
+          "category": "Skywalk kính",
+          "access": "Bus 24/27/71, gần Taejongdae",
+          "ticket": "0",
+          "time": "1h",
+          "notes": "Skywalk kính ven biển — ghép cùng buổi với Taejongdae"
+        },
+        {
+          "city": "Busan",
+          "name": "Songdo Marine Cable Car (Busan Air Cruise)",
+          "local": "송도해상케이블카",
+          "category": "Cáp treo",
+          "access": "Subway L1 Nampo + bus 6/9",
+          "ticket": "15,000 khứ hồi cabin thường",
+          "time": "1.5h",
+          "notes": "Cabin đáy kính phụ thu thêm — nên đặt trước cuối tuần"
+        },
+        {
+          "city": "Seoul",
+          "name": "Lotte World Tower — Seoul Sky",
+          "local": "롯데월드타워 서울스카이",
+          "category": "Đài quan sát",
+          "access": "Subway L2/8/9 Jamsil Exit 1-2",
+          "ticket": "31,000 (mua online rẻ hơn tại quầy)",
+          "time": "1.5–2h",
+          "notes": "Toà tháp cao nhất Hàn Quốc — đặt online tránh xếp hàng"
+        },
+        {
+          "city": "Seoul",
+          "name": "Ihwa Mural Village",
+          "local": "이화벽화마을",
+          "category": "Làng bích hoạ",
+          "access": "Subway L4 Hyehwa Exit 2, đi bộ 10 phút",
+          "ticket": "0",
+          "time": "1–1.5h",
+          "notes": "Gần DDP — khu dân cư thật, giữ yên lặng, một số tường đã xoá bích hoạ"
+        },
+        {
+          "city": "Seoul",
+          "name": "Seoul Forest",
+          "local": "서울숲",
+          "category": "Công viên đô thị",
+          "access": "Subway Bundang Line Seoul Forest Exit 3",
+          "ticket": "0",
+          "time": "1.5–2h",
+          "notes": "Khu Seongsu-dong — nhiều quán cà phê/tiệm bánh hot quanh đây"
+        },
+        {
+          "city": "Seoul",
+          "name": "COEX Aquarium + COEX Mall",
+          "local": "코엑스 아쿠아리움",
+          "category": "Thuỷ cung / mua sắm",
+          "access": "Subway L2 Samseong Exit 5-6",
+          "ticket": "~29,000 (kiểm tra giá trước khi đi)",
+          "time": "2h",
+          "notes": "Đi kèm Starfield Library COEX miễn phí ngay trong khu mall"
+        }
+      ],
+      "backup": true
+    }
+  ],
+  "budget": {
+    "title": "BUDGET — BUSAN → SEOUL 6N5Đ — 1 NGƯỜI",
+    "rows": [
+      {
+        "category": "Flight",
+        "detail": "XX101 DAD→PUS + XX202 ICN→DAD",
+        "unit": "Vé",
+        "qty": 1,
+        "price": 4400000,
+        "tier": "prebook",
+        "booked": "—"
+      },
+      {
+        "category": "Visa",
+        "detail": "Visa Hàn Quốc C-3-9 + phí dịch vụ",
+        "unit": "Lần",
+        "qty": 1,
+        "price": 800000,
+        "tier": "prebook",
+        "booked": "—"
+      },
+      {
+        "category": "Accommodation",
+        "detail": "Busan 2 đêm 24–25/10 (Nampo)",
+        "unit": "Đêm",
+        "qty": 2,
+        "price": 650000,
+        "tier": "prebook",
+        "booked": "—"
+      },
+      {
+        "category": "Accommodation",
+        "detail": "Seoul 3 đêm 26–28/10 (Myeongdong)",
+        "unit": "Đêm",
+        "qty": 3,
+        "price": 550000,
+        "tier": "prebook",
+        "booked": "—"
+      },
+      {
+        "category": "Transport",
+        "detail": "KTX Busan → Seoul (1 chiều)",
+        "unit": "Vé",
+        "qty": 1,
+        "price": 1078000,
+        "tier": "prebook",
+        "booked": "—"
+      },
+      {
+        "category": "Attraction",
+        "detail": "Beach Train (all stop)",
+        "unit": "Vé",
+        "qty": 1,
+        "price": 320000,
+        "tier": "prebook",
+        "booked": "—"
+      },
+      {
+        "category": "Communication",
+        "detail": "eSIM 5GB/6 ngày",
+        "unit": "Trip",
+        "qty": 1,
+        "price": 220000,
+        "tier": "advance",
+        "booked": "—"
+      },
+      {
+        "category": "Attraction",
+        "detail": "N Seoul Tower (vé online) + cable car",
+        "unit": "Vé",
+        "qty": 1,
+        "price": 615000,
+        "tier": "advance",
+        "booked": "—"
+      },
+      {
+        "category": "Attraction",
+        "detail": "Vé tham quan còn lại (Nami, vườn, cung, Busan Tower...)",
+        "unit": "Trip",
+        "qty": 1,
+        "price": 1450000,
+        "tier": "advance",
+        "booked": "—"
+      },
+      {
+        "category": "Transport",
+        "detail": "Subway/Bus/Car Seoul - Busan",
+        "unit": "Trip",
+        "qty": 1,
+        "price": 1500000,
+        "tier": "onsite",
+        "booked": "—"
+      },
+      {
+        "category": "Food & Drink",
+        "detail": "Ăn uống 3 bữa/ngày × 6 ngày",
+        "unit": "Ngày",
+        "qty": 6,
+        "price": 700000,
+        "tier": "onsite",
+        "booked": "—"
+      },
+      {
+        "category": "Shopping",
+        "detail": "Quà + mỹ phẩm + đồ khô",
+        "unit": "Trip",
+        "qty": 1,
+        "price": 1200000,
+        "tier": "onsite",
+        "booked": "—"
+      },
+      {
+        "category": "Buffer",
+        "detail": "Dự phòng (taxi, locker, thuốc, phát sinh)",
+        "unit": "Trip",
+        "qty": 1,
+        "price": 700000,
+        "tier": "onsite",
+        "booked": "—"
+      }
+    ],
+    "currency": "VND"
+  },
+  "cost_sharing": {
+    "members": [
+      "Member A",
+      "Member B",
+      "Member C",
+      "Member D",
+      "Member E",
+      "Member F",
+      "Member G",
+      "Member H"
+    ],
+    "rows": [
+      {
+        "activity": "Vé Máy Bay (DAD - PUS)",
+        "pic": "Member G",
+        "cost": 12000000,
+        "participants": [
+          "Member A",
+          "Member B",
+          "Member C",
+          "Member D",
+          "Member G",
+          "Member H"
+        ]
+      },
+      {
+        "activity": "Vé Máy Bay (ICN - DAD)",
+        "pic": "Member G",
+        "cost": 12000000,
+        "participants": [
+          "Member A",
+          "Member B",
+          "Member C",
+          "Member D",
+          "Member G",
+          "Member H"
+        ]
+      },
+      {
+        "activity": "Khách sạn Seoul",
+        "pic": "Member G",
+        "cost": 9000000,
+        "participants": [
+          "Member A",
+          "Member B",
+          "Member C",
+          "Member D",
+          "Member G",
+          "Member H"
+        ]
+      },
+      {
+        "activity": "Khách sạn Busan",
+        "pic": "Member G",
+        "cost": 8000000,
+        "participants": [
+          "Member A",
+          "Member B",
+          "Member C",
+          "Member D",
+          "Member G",
+          "Member H"
+        ]
+      },
+      {
+        "activity": "Tàu KTX (Busan - Seoul)",
+        "pic": "Member G",
+        "cost": 6000000,
+        "participants": [
+          "Member A",
+          "Member B",
+          "Member C",
+          "Member D",
+          "Member G",
+          "Member H"
+        ]
+      },
+      {
+        "activity": "Tàu BeachTrain (Busan)",
+        "pic": "Member G",
+        "cost": 2000000,
+        "participants": [
+          "Member A",
+          "Member B",
+          "Member C",
+          "Member D",
+          "Member G",
+          "Member H"
+        ]
+      },
+      {
+        "activity": "Áo Team",
+        "pic": "Member B",
+        "cost": 1000000,
+        "participants": [
+          "Member A",
+          "Member B",
+          "Member C",
+          "Member D",
+          "Member E",
+          "Member F",
+          "Member G",
+          "Member H"
+        ]
+      }
+    ],
+    "prepay": {
+      "Member A": 5000000,
+      "Member B": 5000000,
+      "Member C": 5000000,
+      "Member D": 5000000,
+      "Member E": 0,
+      "Member F": 0,
+      "Member G": 5000000,
+      "Member H": 5000000
+    },
+    "fund": {
+      "Member A": 0,
+      "Member B": 0,
+      "Member C": 0,
+      "Member D": 0,
+      "Member E": 0,
+      "Member F": 0,
+      "Member G": 0,
+      "Member H": 0
+    }
+  }
+}
